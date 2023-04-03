@@ -6,6 +6,7 @@ A placeholder webpage created with pure HTML, CSS, JavaScript that echoes the st
 
 - June 2021
 - February 2022
+- October 2022
 
 Find the website [here](https://wtfctf.wearemist.in)
 
